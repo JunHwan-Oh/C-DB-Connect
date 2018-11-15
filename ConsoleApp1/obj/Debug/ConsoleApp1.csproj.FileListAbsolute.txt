@@ -5,3 +5,12 @@ C:\Users\pcwtpqy\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.cspr
 C:\Users\pcwtpqy\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\pcwtpqy\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\pcwtpqy\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\pcwtpqy\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\pcwtpqy\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\pcwtpqy\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\pcwtpqy\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\pcwtpqy\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\pcwtpqy\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\pcwtpqy\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\pcwtpqy\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\pcwtpqy\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
